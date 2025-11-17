@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+geoip2
+python-multipart
